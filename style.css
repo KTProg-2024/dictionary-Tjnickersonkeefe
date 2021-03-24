@@ -1,1 +1,40 @@
-
+.logo{
+  color:white;
+  background-color: #2D5F7C;
+}
+.word{
+  font-size:50px;
+  font-family: 'Times New Roman', Times, serif;
+}
+.wordtype{
+  color: #2D5F7C;
+  font-size:25px;
+}
+.pronunciation{
+  font-style: italic;
+  color: #2D5F7C;
+}
+.definition{
+  font-weight: bold
+}
+.sentence{
+  font-weight: bold;
+  color: #2D5F7C;
+}
+.footnote{
+  font-style: italic;
+}
+.disclaimer{
+  font-size: small;
+}
+.first-use{
+  font-weight: bold;
+}
+.cite{
+  font-weight: bold;
+}
+.footer{
+  font-size: small;
+  color:white;
+  background-color: #2D5F7C;
+}
